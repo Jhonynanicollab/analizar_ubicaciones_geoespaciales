@@ -45,9 +45,8 @@ para el analisis se escojio las variables para que tengan relacion en si , donde
   *Propio, de la organizacion?
   *Alquilado?
   *Alquilado de la Direccion Regional de la Agricultura?
-
   *Cedido?
-  *otor?
+  *otro?
 
 -¿Cual Sera la Superficie Sembrada de .....?
 
@@ -56,5 +55,5 @@ para el analisis se escojio las variables para que tengan relacion en si , donde
 
 donde analisando las 3 variables seleccionadas , se puede decir que si tienen relacion en si , donde , el usuario segun que use maquina o equipo , siempre dependera de el terreno donde se realizara la accion depende si es del propietario o alquilado. y por otra parte tenemos sobre la superficie que se realizara , donde se relaciona directamente con el tipo de mano de obra que se usara , donde se puede decir que segun al tipo de uso dependera tambien de la superficie que se realizara las acciones
 
-# portafolio 
+
 
